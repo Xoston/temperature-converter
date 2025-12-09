@@ -2,6 +2,7 @@
 
 ![Главный экран](screenshots/main.png)
 ![Конвертация](screenshots/convert.png)
+![Api](screenshots/api.png)
 
 ### Основные возможности:
 3 способа передачи данных:
