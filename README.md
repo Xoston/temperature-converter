@@ -1,8 +1,3 @@
-# Конвертер температур
-
-![Главный экран](screenshots/main.png)
-![Конвертация](screenshots/convert.png)
-![Api](screenshots/api.png)
 
 ### Основные возможности:
 3 способа передачи данных:
@@ -16,3 +11,7 @@
 - Цельсий (°C)
 - Фаренгейт (°F)
 - Кельвин (K)
+
+![Главный экран](screenshots/main.png)
+![Конвертация](screenshots/convert.png)
+![Api](screenshots/api.png)
