@@ -1,7 +1,7 @@
 # Конвертер температур
 
-[Главный экран](screenshots/main.png)
-[Конвертация](screenshots/convert.png)
+![Главный экран](screenshots/main.png)
+![Конвертация](screenshots/convert.png)
 
 ### Основные возможности:
 3 способа передачи данных:
